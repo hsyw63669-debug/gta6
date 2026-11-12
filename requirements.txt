@@ -1,0 +1,2 @@
+# Sem dependências externas — usa apenas bibliotecas padrão do Python
+# (smtplib, http.server, json, os, urllib)
